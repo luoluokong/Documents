@@ -1,14 +1,12 @@
 # Title of Article
 
-<!--
-from: where to find this article
-date: time to create this note
-tags: to distinguish and conclude
--->
+	<!--
+	from: where to find this article
+	date: time to create this note
+	tags: to distinguish and conclude
+	-->
 
-<div style="center">
-[toc] # to set toc of title
-</div>
+[toc]
 
 ## Words
 
@@ -21,12 +19,16 @@ tags: to distinguish and conclude
 
 > Tips
 
-	Sth<sub>s</sub> ==> spoken language
-	Sth<sub>w</sub> ==> written language
-	Sth<sub>p</sub> ==> past tense
-	Sth<sub>n</sub> ==> neutral words
-	Sth<sub>N</sub> ==> Negative words
-	Sth<sub>P</sub> ==> Postive words
+ - Sth<sub>s</sub> ==> spoken language
+ - Sth<sub>w</sub> ==> written language
+ - Sth<sub>p</sub> ==> past tense
+ - Sth<sub>n</sub> ==> neutral words
+ - Sth<sub>N</sub> ==> Negative words
+ - Sth<sub>P</sub> ==> Postive words
+
+ - Sth<sup>n</sup> ==> Noun
+ - Sth<sup>t</sup> ==> Antonym
+
 
 ## Sentenses
 
